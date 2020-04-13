@@ -1,10 +1,10 @@
-..  _turbo-window:
+..  _turbo-windo:
 
-TURBO\_window
+TURBO\_windo
 =============
 
 +----------+-------------------------------------------------------------------+
-| Syntax   |  TURBO\_window number                                             |
+| Syntax   |  TURBO\_windo number                                             |
 +----------+-------------------------------------------------------------------+
 | Location |  Turbo Toolkit v3.00+                                             |
 +----------+-------------------------------------------------------------------+
@@ -29,7 +29,7 @@ the Parser's front panel.
 
 ::
 
-    5 TURBO_window 0
+    5 TURBO_windo 0
 
 **NOTE**
 
